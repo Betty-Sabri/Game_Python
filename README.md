@@ -86,3 +86,11 @@ Manages the full simulation:
 
 ```bash
 python battle_game.py
+
+## Purpose
+
+- Object-Oriented Programming (inheritance, polymorphism, composition)
+- Game loop design
+- Basic AI decision-making
+- State management (HP, mana, abilities)
+- Modular class architecture
