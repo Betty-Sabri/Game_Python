@@ -86,6 +86,10 @@ Manages the full simulation:
 
 ```bash
 python battle_game.py
+```
+
+---
+
 
 ## Purpose
 
